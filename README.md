@@ -5,5 +5,5 @@ Accompanying notebook to recreate: https://colab.research.google.com/drive/1i3yz
 
 Video:
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=NYV4fB3IU0k"><img src="https://www.youtube.com/watch?v=NYV4fB3IU0k/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=NYV4fB3IU0k" target="blank"><img src="https://www.youtube.com/watch?v=NYV4fB3IU0k/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
